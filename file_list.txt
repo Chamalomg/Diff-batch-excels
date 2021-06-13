@@ -1,0 +1,158 @@
+01_Analyse Epargne Investie=2008=20210518.xls
+01_Analyse Epargne Investie=2016=20210518.xls
+01_Analyse Globale=2008=20210518.xls
+01_Analyse Globale=2016=20210518.xls
+01_Assurance-Vie par Site, March‚ et Contrat=2008=20210518.xls
+01_Assurance-Vie par Site, March‚ et Contrat=2016=20210518.xls
+01_Collecte Brute des UC MLT=2008=20210518.xls
+01_Collecte Brute des UC MLT=2016=20210518.xls
+01_Collecte Brute en Assurance-Vie=2008=20210518.xls
+01_Collecte Brute en Assurance-Vie=2016=20210518.xls
+01_Offre Commerciale Transfert Mono-Multi=2008=20210518.xls
+01_Offre Commerciale Transfert Mono-Multi=2016=20210518.xls
+01_OPCVM PROFILEA par Site et March‚=2008=20210518.xls
+01_OPCVM PROFILEA par Site et March‚=2016=20210518.xls
+01_OPVCM BNPP par Site, Classe COB et March‚=2008=20210518.xls
+01_OPVCM BNPP par Site, Classe COB et March‚=2016=20210518.xls
+01_OPVCM BNPP par Site=2008=20210518.xls
+01_OPVCM BNPP par Site=2016=20210518.xls
+01_Production Assurance-Vie par DR-CBP=2008=20210518.xls
+01_Production Assurance-Vie par DR-CBP=2016=20210518.xls
+01_Production, Transferts et Arbitrages (UC - CAPI)=2008=20210518.xls
+01_Production, Transferts et Arbitrages (UC - CAPI)=2016=20210518.xls
+02_Analyse des OPCVM=2008=20210518.xls
+02_Analyse des OPCVM=2016=20210518.xls
+02_Analyse des OPCVM_Mens=2008=20210518.xls
+02_Analyse des OPCVM_mens=2016=20210518.xls
+02_Arbitrages Euros vers UC et Transferts Mono-Multi Euros vers UC=2008=20210518.xls
+02_Arbitrages Euros vers UC et Transferts Mono-Multi Euros vers UC=2016=20210518.xls
+02_Collecte Brute des OPVCM MLT=2008=20210518.xls
+02_Collecte Brute des OPVCM MLT=2016=20210518.xls
+02_Collecte Nette en Assurance-Vie=2008=20210518.xls
+02_Collecte Nette en Assurance-Vie=2016=20210518.xls
+02_Evolution de la production Assurance-Vie (UC-CAPI)=2008=20210518.xls
+02_Evolution de la production Assurance-Vie (UC-CAPI)=2016=20210518.xls
+02_OPVCM BNPP MLT par Site et March‚=2008=20210518.xls
+02_OPVCM BNPP MLT par Site et March‚=2016=20210518.xls
+02_Production Assurance-Vie Grande Fortune par DR=2008=20210518.xls
+02_Production Assurance-Vie Grande Fortune par DR=2016=20210518.xls
+02_Production, Tranferts et Arbitrages sur Offre Commerciale Mono Multi=2008=20210518.xls
+02_Production, Tranferts et Arbitrages sur Offre Commerciale Mono Multi=2016=20210518.xls
+02_UC PROFILEA par Site et March‚=2008=20210518.xls
+02_UC PROFILEA par Site et March‚=2016=20210518.xls
+03_Analyse BPF=2008=20210518.xls
+03_Analyse BPF=2016=20210518.xls
+03_Analyse en Assurance Vie=2008=20210518.xls
+03_Analyse en Assurance Vie=2016=20210518.xls
+03_Collecte Brute des UC PROFILEA=2008=20210518.xls
+03_Collecte Brute des UC PROFILEA=2016=20210518.xls
+03_Droits d entr‚e Assurance-Vie, Manque … gagner par DR-CBP=2008=20210518.xls
+03_Droits d entr‚e Assurance-Vie, Manque … gagner par DR-CBP=2016=20210518.xls
+03_Evolution de Epargne Investie (Titres et OPCVM)=2008=20210518.xls
+03_Evolution de Epargne Investie (Titres et OPCVM)=2016=20210518.xls
+03_Evolution des droits d entr‚e Assurance Vie=2008=20210518.xls
+03_Evolution des droits d entr‚e Assurance Vie=2016=20210518.xls
+03_Part des UC dans la Collecte Brute=2008=20210518.xls
+03_Part des UC dans la Collecte Brute=2016=20210518.xls
+04_Analyse en Assurance Vie BPF=2008=20210518.xls
+04_Analyse en Assurance Vie BPF=2016=20210518.xls
+04_Collecte Brute des OPVCM PROFILEA=2008=20210518.xls
+04_Collecte Brute des OPVCM PROFILEA=2016=20210518.xls
+04_Part des UC dans la Collecte Nette=2008=20210518.xls
+04_Part des UC dans la Collecte Nette=2016=20210518.xls
+04_Production Assurance Vie (UC - CAPI) par Site et Marche=2008=20210518.xls
+04_Production Assurance Vie (UC - CAPI) par Site et Marche=2016=20210518.xls
+05_Analyse Epargne Investie BPF=2008=20210518.xls
+05_Analyse Epargne Investie BPF=2016=20210518.xls
+05_Collecte Nette des UC MLT=2008=20210518.xls
+05_Collecte Nette des UC MLT=2016=20210518.xls
+05_Droits d entr‚e en Assurance-Vie=2008=20210518.xls
+05_Droits d entr‚e en Assurance-Vie=2016=20210518.xls
+05_Production des Supports Assurance-Vie par Classe COB=2008=20210518.xls
+05_Production des Supports Assurance-Vie par Classe COB=2016=20210518.xls
+06_Arbitrages par Site=2008=20210518.xls
+06_Arbitrages par Site=2016=20210518.xls
+06_Collecte Nette des OPVCM MLT=2008=20210518.xls
+06_Collecte Nette des OPVCM MLT=2016=20210518.xls
+06_Taux moyens cumul‚s des Droits d entr‚e=2008=20210518.xls
+06_Taux moyens cumul‚s des Droits d entr‚e=2016=20210518.xls
+07_Collecte Nette des UC PROFILEA=2008=20210518.xls
+07_Collecte Nette des UC PROFILEA=2016=20210518.xls
+08_Collecte Nette des OPVCM PROFILEA=2008=20210518.xls
+08_Collecte Nette des OPVCM PROFILEA=2016=20210518.xls
+1_FDC - Evolution=2008=20210517.xls
+1_FDC - Evolution=2016=20210518.xls
+1_Flux France et Etranger=2008=20210517.xls
+1_Flux France et Etranger=2016=20210518.xls
+1_GAP - Analyse libre en k=2008=20210517.xls
+1_GAP - Analyse libre en k=2016=20210518.xls
+1_GAP - Evolution en kEuro=2008=20210517.xls
+1_GAP - Evolution en kEuro=2016=20210518.xls
+1_PNB par Site BPF=2008=20210517.xls
+1_PNB par Site BPF=2016=20210518.xls
+1_RCPBDDFD Synthese Metropole=2008=20210517.xls
+1_RCPBDDFD Synthese Metropole=2016=20210517.xls
+1_RCPBDDFR Tableau de synthŠse Centres d Affaires en k=2008=20210517.xls
+1_RCPBDDFR Tableau de synthŠse Centres d Affaires en k=2016=20210517.xls
+1_RCPBDDFR Tableau de synthŠse en k=2008=20210517.xls
+1_RCPBDDFR Tableau de synthŠse en k=2016=20210517.xls
+1_RCPBDDFV Synthese Metropole=2008=20210517.xls
+1_RCPBDDFV Synthese Metropole=2016=20210518.xls
+1_RCPCPCV Synthese Metropole=2008=20210517.xls
+1_RCPCPCV Synthese Metropole=2016=20210517.xls
+1_RCPHISTD Compte de R‚sultat RCP HISTO=2008=20210517.xls
+1_RCPHISTD Compte de R‚sultat RCP HISTO=2016=20210517.xls
+1_Stock des UC et OPCVM PROFILEA par Site et March‚s=2008=20210518.xls
+1_Stock des UC et OPCVM PROFILEA par Site et March‚s=2016=20210518.xls
+1_Suivi Animation commerciale BPF du New Cash par classe d actifs=2008=20210517.xls
+1_Suivi Animation commerciale BPF du New Cash par classe d actifs=2016=20210518.xls
+2_Epargne globale (Epargne de Bilan, Epargne Investie, Assurance-Vie)=2008=20210518.xls
+2_Epargne globale (Epargne de Bilan, Epargne Investie, Assurance-Vie)=2016=20210518.xls
+2_FDC - Historique=2008=20210517.xls
+2_FDC - Historique=2016=20210517.xls
+2_Flux Bourse Histo=2008=20210517.xls
+2_Flux Bourse Histo=2016=20210518.xls
+2_PNB par contrat=2008=20210517.xls
+2_PNB par contrat=2016=20210518.xls
+2_RCPBDDFD Compte de Resultat=2008=20210517.xls
+2_RCPBDDFD Compte de Resultat=2016=20210517.xls
+2_RCPBDDFR Comparatif en k=2008=20210517.xls
+2_RCPBDDFR Comparatif en k=2016=20210517.xls
+2_RCPBDDFR Tableau de synthŠse Banque de Proximit‚ en k=2008=20210517.xls
+2_RCPBDDFR Tableau de synthŠse Banque de Proximit‚ en k=2016=20210517.xls
+2_RCPBDDFV Compte de Resultat=2008=20210517.xls
+2_RCPBDDFV Compte de Resultat=2016=20210518.xls
+2_RCPCPCV Analyse libre=2008=20210517.xls
+2_RCPCPCV Analyse libre=2016=20210517.xls
+2_RCPHISTD Analyse libre RCP HISTO=2008=20210517.xls
+2_RCPHISTD Analyse libre RCP HISTO=2016=20210517.xls
+2_RCPHISTV Compte de Resultat=2008=20210517.xls
+2_RCPHISTV Compte de Resultat=2016=20210518.xls
+2_Suivi BPF du New Cash par classe d actifs=2008=20210517.xls
+2_Suivi BPF du New Cash par classe d actifs=2016=20210518.xls
+3_M-Epargne investie (Titres, OPVCM)=2008=20210518.xls
+3_M-Epargne investie (Titres, OPVCM)=2016=20210518.xls
+3_PNB - Analyse libre=2008=20210517.xls
+3_PNB - Analyse libre=2016=20210518.xls
+3_Produit-Segment BPF=2008=20210517.xls
+3_Produit-Segment BPF=2016=20210518.xls
+3_RCPBDDFD Analyse libre=2008=20210517.xls
+3_RCPBDDFD Analyse libre=2016=20210517.xls
+3_RCPBDDFR Historique en k=2008=20210517.xls
+3_RCPBDDFR Historique en k=2016=20210517.xls
+3_RCPBDDFV Analyse libre=2008=20210517.xls
+3_RCPBDDFV Analyse libre=2016=20210518.xls
+3_RCPHISTV Analyse libre=2008=20210517.xls
+3_RCPHISTV Analyse libre=2016=20210518.xls
+3_Suivi BPF du New Cash par DR=2008=20210517.xls
+3_Suivi BPF du New Cash par DR=2016=20210518.xls
+4_Produit-Entite BPF=2008=20210517.xls
+4_Produit-Entite BPF=2016=20210518.xls
+4_RCPBDDFR Analyse libre en k=2008=20210517.xls
+4_RCPBDDFR Analyse libre en k=2016=20210518.xls
+4_Suivi GF du New Cash par classe d actifs=2008=20210517.xls
+4_Suivi GF du New Cash par classe d actifs=2016=20210518.xls
+5_FDC - Analyse libre=2008=20210517.xls
+5_FDC - Analyse libre=2016=20210518.xls
+5_Suivi GF du New Cash par gestionnaires=2008=20210517.xls
+5_Suivi GF du New Cash par gestionnaires=2016=20210518.xls
