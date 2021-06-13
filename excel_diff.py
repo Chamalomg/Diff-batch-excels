@@ -9,13 +9,6 @@ file1 = "data/PNI_PEL_juridiction=2008=20210531.xls"
 file2 = "data/PNI_PEL_juridiction=2016=20210531.xls"
 
 
-# file1 = "data/test1.xls"
-# file2 = "data/test2.xls"
-
-# df1 = pd.read_excel(file1, index_col=None, header=None)
-# df2 = pd.read_excel(file2, index_col=None, header=None)
-
-
 def diff_pd(df1, df2):
     """Identify differences between two pandas DataFrames"""
     if df2.equals(df1):
@@ -43,7 +36,7 @@ def diff_pd(df1, df2):
         return df
 
 
-def diff_path(file1, file2):
+def diff_path(file1: str, file2: str):
     df1 = pd.read_excel(file1, index_col=None, header=None)
     df2 = pd.read_excel(file2, index_col=None, header=None)
     return diff_pd(df1, df2)
@@ -54,7 +47,7 @@ def create_csv(df, output_dir, name):
     df.to_csv(path, index=False, header=True)
 
 
-def create_pairs(main_dir):
+def create_pairs(main_dir: str) -> list:
     paths = []
     for root, dirs, files in os.walk(main_dir):
         for f_name in files:
@@ -66,7 +59,7 @@ def create_pairs(main_dir):
     return pairs
 
 
-def main():
+def main() -> None:
     pairs = create_pairs(main_dir)
     for f1, f2 in pairs:
         # print(f1, f2, "\n")
